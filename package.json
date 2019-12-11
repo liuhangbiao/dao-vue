@@ -1,0 +1,22 @@
+{
+  "name": "dao-vue",
+  "version": "1.0.0",
+  "description": "基于vue搭建的全家桶项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhangbiao/dao-vue.git"
+  },
+  "keywords": [
+    "vue、javascript、webpack、less"
+  ],
+  "author": "道心",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhangbiao/dao-vue/issues"
+  },
+  "homepage": "https://github.com/liuhangbiao/dao-vue#readme"
+}
