@@ -4,7 +4,8 @@
   "description": "基于vue搭建的全家桶项目",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build":"webpack"
   },
   "repository": {
     "type": "git",
